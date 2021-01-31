@@ -1,3 +1,4 @@
+Stash branching
 Test Git Quick Start Demo
 Adding content to the start.txt
 Created a new branch test-change
