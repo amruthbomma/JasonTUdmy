@@ -3,7 +3,7 @@ How great is Keto Diet
 How good is strength training and Weightloss training
 FINAL TEST ALIEN AND HUMAN
  Adding new content in the REbase example branch MYFEATURE
-
+Stashfile concept learing in README.file
 SolidFitness is very good and trainers are very great !!!
 
 Thanks to all my students
