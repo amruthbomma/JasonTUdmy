@@ -1,3 +1,4 @@
+Comparing stashes
 Stash branching
 Test Git Quick Start Demo
 Adding content to the start.txt
