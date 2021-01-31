@@ -4,7 +4,7 @@ How good is strength training and Weightloss training
 FINAL TEST ALIEN AND HUMAN
  Adding new content in the REbase example branch MYFEATURE
 
-
+SolidFitness is very good and trainers are very great !!!
 
 Thanks to all my students
 Vakee Sahaab
