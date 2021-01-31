@@ -1,1 +1,2 @@
+Understanding multiple stashes in file 2
 untracking file concept using the Stash in teh FILE stachFILE
