@@ -1,4 +1,3 @@
-AMAZON Web service
 Azure Funamentals
 llsdlfdla
 ksdfsd
